@@ -42,6 +42,7 @@ The objectives of this project were to:
 - Calculate Month-over-Month (MoM) sales growth
 
 This project was selected to strengthen SQL querying skills along with Python-based EDA and business dashboard creation.
+
 ---
 
 ## 🐍 Python: Data Cleaning & Feature Engineering
