@@ -30,6 +30,19 @@ The dataset contains **10,051 Walmart sales transactions** with the following at
 - Profit Margin
 
 ---
+## Business Understanding
+Retail businesses rely heavily on sales analytics to improve revenue, optimize pricing strategies, and understand customer behavior.
+
+The objectives of this project were to:
+- Analyze total revenue and profit trends
+- Identify high-performing branches and cities
+- Compare weekend vs weekday sales
+- Evaluate category-wise sales performance
+- Analyze payment method distribution
+- Calculate Month-over-Month (MoM) sales growth
+
+This project was selected to strengthen SQL querying skills along with Python-based EDA and business dashboard creation.
+---
 
 ## 🐍 Python: Data Cleaning & Feature Engineering
 
